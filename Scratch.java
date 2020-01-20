@@ -5,6 +5,9 @@ class Scratch {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the value for a");
         int a=sc.nextInt();
-        System.out.println(a);
+        System.out.println("Enter the value for b");
+        int b=sc.nextInt();
+        System.out.println(b);
+        I am donre
     }
 }
